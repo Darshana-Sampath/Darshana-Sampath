@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and coding.
 - 🌱 I’m currently learning as an electrical engineering undergraduate at the university of Moratuwa, Sri Lanka.
 - 💞️ I’m looking to collaborate on machine learning and coding.
-- 📫 How to reach me: - Email me. Email = isurusiri.s@gmail.com
+
        
 
 <!---
