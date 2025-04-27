@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darshana-Sampath
-- 👀 I’m interested in machine learning and coding.
-- 🌱 I’m currently learning as an electrical engineering undergraduate at the university of Moratuwa, Sri Lanka.
+- 👀 I’m interested in smart power systems, power electronics, Embedded Systems, machine learning, and coding.
+- 🌱 I’m currently at the end of electrical engineering degree program at the university of Moratuwa, Sri Lanka.
 - 💞️ I’m looking to collaborate on machine learning and coding.
 
        
